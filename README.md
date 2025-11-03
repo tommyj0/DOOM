@@ -16,6 +16,8 @@
 
 - xserver-xephyr
 
+- cmake 3.15+
+
 ### Files
 
 - doom1.wad: copy into wherever you're running from

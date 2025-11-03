@@ -1,0 +1,4 @@
+**/*.wad
+**/*.o
+**/linuxxdoom
+build/

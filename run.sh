@@ -4,6 +4,8 @@
 
 DISPLAY=:2
 
-./linuxdoom-1.10/linux/linuxxdoom -2
+./build/doom -2
+
+# ./linuxdoom-1.10/linux/linuxxdoom -2 # old way
 
 
