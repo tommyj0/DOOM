@@ -18,6 +18,8 @@
 
 - cmake 3.15+
 
+- gcc-riscv64-unknown-elf
+
 ### Files
 
 - doom1.wad: copy into wherever you're running from
